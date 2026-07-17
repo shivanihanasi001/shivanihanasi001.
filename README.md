@@ -1,4 +1,4 @@
-# Hi, I'm [Shivani Hanasi] 👋
+# Hi, I'm Shivani Hanasi 👋
 
 Full-stack developer focused on building fast, reliable web applications end to end — from database design to polished UI.
 
@@ -8,7 +8,7 @@ Full-stack developer focused on building fast, reliable web applications end to 
 - 🌱 Currently learning **[7th-semester ISE student]**
 - 💼 Open to **[aiming for placements and interested in Python, Data Analysis, AI, and Full-Stack Development]** opportunities
 - 📫 Reach me at **[shivanihanasi19@gmail.com]** or **[https://www.linkedin.com/in/shivani-hansi?utm_source=share_via&utm_content=profile&utm_medium=member_android]**
--
+
 
 ## Tech Stack
 
